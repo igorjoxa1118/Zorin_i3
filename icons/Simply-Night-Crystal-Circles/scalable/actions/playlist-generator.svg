@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="playlist-generator.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 7,5 A 2,2 0 0 0 5,7 2,2 0 0 0 7,9 2,2 0 0 0 9,7 2,2 0 0 0 7,5 Z m 8.109375,0 c -0.259,0.004 -0.507406,0.1091688 -0.691406,0.2929688 l -3.5,3.5 -0.5,0.5 -2.0000002,2.0000002 -1.5,1.5 -0.5,0.5 -1.125,1.125 c -0.3904001,0.39 -0.3904001,1.024062 0,1.414062 l 2.875,2.875 c 0.3905,0.39 1.0235625,0.39 1.4140624,0 l 1.1249998,-1.125 0.5,-0.5 3.5,-3.5 0.5,-0.5 3.5,-3.4999998 c 0.39,-0.3905 0.39,-1.0235625 0,-1.4140624 l -2.875,-2.875 C 15.641031,5.1015687 15.380375,4.99585 15.109375,5 Z m -3.484375,5.914063 0.01172,0.01172 1.4375,1.4375 0.01172,0.01172 -3.2929687,3.292969 -0.5,0.5 L 8.875,16.585938 7.4140625,15.125 l 0.4179687,-0.417969 0.5,-0.5 1.5,-1.5 z"
+     id="path1" />
+</svg>

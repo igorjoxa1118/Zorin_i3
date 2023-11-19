@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="resource-calendar-child.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 6.9960938,4.9960937 7,5 C 4.75,5 5,7 5,7 v 12 h 5.996094 V 17 H 7 V 7 h 10 v 4 h 1.996094 V 6.9960938 c 0,-2.0000001 -2,-2.0000001 -2,-2.0000001 z M 8,8 v 2 h 2 V 8 Z m 3,0 v 2 h 2 V 8 Z m 3,0 v 2 h 2 V 8 Z m -6,3 v 2 h 2 v -2 z m 4.996094,1.996094 c -0.554,0 -1,0.534439 -1,1.199218 v 3.601563 c 0,0.6648 0.446,1.199219 1,1.199219 h 5 c 0.54707,0 0.985134,-0.522551 0.996094,-1.175782 v 1.175782 h 0.0039 v -4.820313 c -0.01,-0.66 -0.45,-1.179687 -1,-1.179687 z M 8,14 v 2 h 2 v -2 z"
+     id="path1" />
+</svg>

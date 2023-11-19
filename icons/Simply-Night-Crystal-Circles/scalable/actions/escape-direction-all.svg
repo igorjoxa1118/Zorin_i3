@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="escape-direction-all.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 5,5 V 19 H 19 V 5 Z m 2,2 h 4 v 3.2773 C 10.6994,10.4521 10.4521,10.6994 10.2773,11 H 7 Z m 6,0 h 4 v 4 H 13.7227 C 13.5479,10.6994 13.3006,10.4521 13,10.2773 Z m -6,6 h 3.2773 c 0.1748,0.3006 0.4221,0.5479 0.7227,0.7227 V 17 H 7 Z m 6.7227,0 H 17 v 4 H 13 V 13.7227 C 13.3006,13.5479 13.5479,13.3006 13.7227,13 Z"
+     id="path1" />
+</svg>

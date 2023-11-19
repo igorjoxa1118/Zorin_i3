@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="gnome-aisleriot.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs8">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;      .ColorScheme-Highlight {&#10;        color:#1e3f5a;&#10;      }&#10;  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#bde6fb;fill-opacity:1;stroke-width:0.264583"
+     d="M 6.3499999,0 A 6.3499999,6.3499999 0 0 0 0,6.3499999 6.3499999,6.3499999 0 0 0 6.3499999,12.7 6.3499999,6.3499999 0 0 0 12.7,6.3499999 6.3499999,6.3499999 0 0 0 6.3499999,0 Z m 0,0.79374999 A 5.5562499,5.5562499 0 0 1 11.90625,6.3499999 5.5562499,5.5562499 0 0 1 6.3499999,11.90625 5.5562499,5.5562499 0 0 1 0.79374999,6.3499999 5.5562499,5.5562499 0 0 1 6.3499999,0.79374999 Z m 0,3.17500001 c -4.3612303,2.3088864 -2.503616,5.1151514 -0.2160074,3.8364582 0.07203,0.3733986 0.094331,0.7513826 -0.5777426,1.190625 h 1.5875 C 6.4627577,8.5318012 6.4809105,8.1619817 6.5556722,7.7990069 8.8479642,9.0918196 10.717734,6.2810797 6.3499999,3.96875 Z"
+     id="path817" />
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="40.000023"
+   height="40.000095"
+   version="1"
+   id="svg8"
+   sodipodi:docname="audio-speaker-center.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs8">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;      .ColorScheme-Highlight {&#10;        color:#1e3f5a;&#10;      }&#10;  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#bde6fb;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="M 40,20.030097 A 20,20 0 0 0 20.062,9.6797943e-5 20,20 0 0 0 0,19.908097 l 20,0.092 z" />
+  <path
+     class="ColorScheme-Highlight"
+     style="opacity:0.5;fill:#bde6fb;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path4"
+     d="m 38.633,27.162097 -2.44,-0.609 a 17.5,17.5 0 0 1 -16.218,10.947 17.5,17.5 0 0 1 -16.195,-10.949 l -2.438,0.607 a 20,20 0 0 0 18.633,12.842 20,20 0 0 0 18.658,-12.838 z m -9.364,1.151 -2.148,-1.35 a 10,10 0 0 1 -7.146,3.037 10,10 0 0 1 -7.153,-3.024 l -2.158,1.344 a 12.5,12.5 0 0 0 9.31,4.18 12.5,12.5 0 0 0 9.295,-4.187 z" />
+</svg>

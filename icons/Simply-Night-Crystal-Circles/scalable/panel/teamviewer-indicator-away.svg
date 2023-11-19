@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="19"
+   height="18.207001"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="teamviewer-indicator-away.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#ff0000; }&#10;  </style>
+  </defs>
+  <g
+     id="g1"
+     transform="translate(-4,-3.9999993)">
+    <path
+       style="fill:#bde6fb;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 20,12 c -0.0014,0.486109 -0.05073,0.971344 -0.140227,1.449146 L 18.789711,12.379384 16,15.206756 16.792824,15.999579 13,16 v 3.928705 c -0.331469,0.0442 -0.665605,0.06889 -1,0.07129 -4.4172959,0 -8.0000001,-3.582236 -8.0000001,-7.999532 C 3.9999999,7.5831714 7.5826942,4.0000991 12,3.9999993 16.417306,3.9999002 20,7.5827042 20,12 Z M 14,9.0000001 V 11 H 9.9999998 L 9.9986859,9.0009354 7,12 9.9999998,15 V 13 H 14 v 2 l 3,-3 z M 18.793,13.792 23,18 18.793,22.207 17.3789,20.793 19.1719,19 14,18.999 v -2 L 19.1719,17 17.3789,15.206 Z"
+       id="path1" />
+  </g>
+</svg>

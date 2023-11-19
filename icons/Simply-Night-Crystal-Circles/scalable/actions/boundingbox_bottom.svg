@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="10"
+   viewBox="0 0 16 10"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="boundingbox_bottom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 8,0 C 5.6242,3e-4 3.5766625,1.6722 3.1015625,4 H 0 V 6 H 3.1054688 C 3.5802688,8.326 5.6257,9.998 8,10 10.3758,9.999743 12.423338,8.3278 12.898438,6 H 16 V 4 H 12.894531 C 12.419531,1.6737 10.374,0.0021 8,0 Z"
+     id="path1" />
+</svg>

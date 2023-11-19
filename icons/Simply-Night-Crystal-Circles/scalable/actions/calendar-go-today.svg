@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="15"
+   height="14"
+   viewBox="0 0 15 14"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="calendar-go-today.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 1.9902344,0 c 0,0 -1.00000002,0 -1.00000002,1 V 5.9941406 L 2.9902344,6 V 5 H 3.7890625 L 5.4941406,3.2929688 6.2011719,2.5859375 8.6152344,5 h 4.3749996 v 7 H 7.6503906 L 6.2050782,13.458984 4.7558594,12 H 3 v -1.990234 l -2.00000002,-0.0059 V 13 c 0,0 0,1 1.00000002,1 h 12 c 1,0 1,-1 1,-1 V 1 C 15,1 15,0 14,0 Z M 6.2011719,4 4.8144532,5.3867188 6.4492188,7.0214844 0,7 V 9 L 6.4609375,9.021484 4.8261719,10.654297 6.2109375,12.041016 10.21289,8 Z"
+     id="path1" />
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="18.494087"
+   height="18.33"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="weather-clouds-night-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1085"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     style="isolation:auto;mix-blend-mode:normal;fill:#bde6fb;fill-opacity:1"
+     d="m 8.971087,0 a 9,9 0 0 0 -0.078,0.004 9,9 0 0 0 -1.129,0.09 9,9 0 0 0 -0.146,0.02 8.03,8.243 0 0 0 -0.004,0.003 9,9 0 0 0 -5.08,15.153 3.556,3.556 0 0 0 3.515,3.06 h 8 a 4.444,4.444 0 0 0 4.445,-4.443 4.444,4.444 0 0 0 -2.882,-4.157 5.333,5.333 0 0 0 -5.118,-3.843 5.333,5.333 0 0 0 -4.245,2.113 7.5,7.5 0 0 1 -0.277,-2 7.5,7.5 0 0 1 1.848,-4.912 8,8 0 0 1 0.02,-0.004 7.5,7.5 0 0 1 1.159,-1.084 z m -2.398,1.355 a 8.03,8.243 0 0 0 -0.059,0.079 8.03,8.243 0 0 0 -0.42,0.7 8.03,8.243 0 0 0 -0.35,0.741 8.03,8.243 0 0 0 -0.277,0.775 8.03,8.243 0 0 0 -0.2,0.797 8.03,8.243 0 0 0 -0.12,0.815 8.03,8.243 0 0 0 -0.041,0.824 8.03,8.243 0 0 0 0.02,0.582 8.03,8.243 0 0 0 0.097,0.818 8.03,8.243 0 0 0 0.176,0.803 8.03,8.243 0 0 0 0.238,0.742 5.333,5.333 0 0 0 -0.477,2.19 5.333,5.333 0 0 0 0.004,0.115 3.556,3.556 0 0 0 -2.552,2.557 8,8 0 0 1 -0.15,-0.186 8,8 0 0 1 -0.438,-0.67 8,8 0 0 1 -0.37,-0.709 8,8 0 0 1 -0.296,-0.744 8,8 0 0 1 -0.219,-0.768 8,8 0 0 1 -0.14300004,-0.787 8,8 0 0 1 -0.064,-0.799 8,8 0 0 1 0.018,-0.798 8,8 0 0 1 0.097,-0.793 8,8 0 0 1 0.174,-0.782 8,8 0 0 1 0.254,-0.757 8,8 0 0 1 0.326,-0.73 8,8 0 0 1 0.399,-0.694 8,8 0 0 1 0.464,-0.65 8,8 0 0 1 0.528,-0.602 8,8 0 0 1 0.586,-0.545 8,8 0 0 1 0.636,-0.483 8,8 0 0 1 0.682,-0.417 8,8 0 0 1 0.72,-0.348 8,8 0 0 1 0.75,-0.274 8,8 0 0 1 0.007,-0.002 z m 3.921,5.543 a 4.342,4.342 0 0 1 4.272,3.57 3.474,3.474 0 0 1 2.676,3.378 3.474,3.474 0 0 1 -3.475,3.474 h -7.816 a 2.605,2.605 0 0 1 -2.606,-2.605 2.605,2.605 0 0 1 2.606,-2.606 2.605,2.605 0 0 1 0.093,0.006 4.342,4.342 0 0 1 -0.093,-0.875 4.342,4.342 0 0 1 4.343,-4.342 z"
+     id="path2"
+     inkscape:connector-curvature="0" />
+</svg>

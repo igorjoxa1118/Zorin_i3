@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   id="svg7"
+   version="1.1"
+   sodipodi:docname="new-audio-alarm.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme" />
+  </defs>
+  <path
+     d="M 18,5 H 9 v 8.19 a 2.78,2.78 0 0 0 -1,-0.2 3,3 0 1 0 3,3 V 9 h 6 v 4.2 C 16.68,13.08 16.36,13 16,13 a 3,3 0 1 0 3,3 V 5 Z"
+     id="path5"
+     fill="#1e3f5a"
+     color="#dfdfdf"
+     style="fill:#bde6fb;fill-opacity:1" />
+</svg>

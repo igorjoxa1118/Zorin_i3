@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="games-config-tiles.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 5,5 V 19 H 19 V 5 Z M 7,7 H 17 V 17 H 7 Z M 8.0215,8 C 8.0099,8 8,8.0099 8,8.0215 v 0.957 C 8,8.9901 8.0099,9 8.0215,9 H 15.979 C 15.99,9 16,8.9901 16,8.9785 V 8.0215 C 16,8.0099 15.99,8 15.979,8 Z m 0,3 C 8.0099,11 8,11.0099 8,11.0215 v 0.957 C 8,11.9901 8.0099,12 8.0215,12 H 15.979 C 15.99,12 16,11.9901 16,11.9785 v -0.957 C 16,11.0099 15.99,11 15.979,11 Z m 0,2.8008 C 8.0099,13.8008 8,13.8088 8,13.8203 v 0.9587 c 0,0.012 0.0099,0.022 0.0215,0.022 h 7.9575 c 0.011,0 0.021,-0.01 0.021,-0.022 v -0.9587 c 0,-0.0115 -0.01,-0.0195 -0.021,-0.0195 z"
+     id="path1" />
+</svg>

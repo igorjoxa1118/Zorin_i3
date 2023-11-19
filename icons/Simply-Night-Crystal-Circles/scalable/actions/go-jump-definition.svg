@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="go-jump-definition.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 9,6.0292969 -4,1 5,1 4,-1 z m 8,0 -1,1 -1,1 2,2.0000001 V 8.7441406 c 0.624413,0.943125 1,2.0637814 1,3.2851564 0,3.324 -2.676,5 -6,5 v 1 c 3.878025,0 7,-2.12205 7,-6 0,-1.909125 -0.767675,-3.6238626 -2,-4.8828126 z m -12,2 v 5.0000001 l 4,1 V 9.0292969 Z m 9,0 -4,1 v 5.0000001 l 4,-1 z"
+     id="path1" />
+</svg>

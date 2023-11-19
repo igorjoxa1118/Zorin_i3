@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="edit-bomb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 19,5 C 18.011,5.2035 17.092781,5.7820875 16.550781,6.6171875 16.362781,6.5329875 16.22,6.5 16,6.5 c -0.156,0 -0.304312,0.030219 -0.445312,0.074219 -0.279,0.1042 -0.52386,0.2171312 -0.75586,0.3320312 A 6.5,6.5 0 0 0 11.5,6 6.5,6.5 0 0 0 5,12.5 6.5,6.5 0 0 0 11.5,19 6.5,6.5 0 0 0 18,12.5 6.5,6.5 0 0 0 17.207031,9.4003906 c 0.088,-0.2879 0.16375,-0.5996781 0.21875,-0.9550781 C 17.469781,8.3038125 17.5,8.1564 17.5,8 17.5,7.664 17.489688,7.5287969 17.304688,7.2792969 17.705687,6.6254969 18.242,6.1969 19,6 Z"
+     id="path1" />
+</svg>

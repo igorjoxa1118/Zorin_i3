@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="view-bank-account-checking.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 11,5 -7,7 h 2 v 7 h 8.376953 C 14.143093,18.52135 14,17.991934 14,17.427734 c 0,-1.3977 0.82389,-2.586956 2,-3.160156 V 12 h 2 z m 0,5 c 1.1046,0 2,0.89547 2,2 0,1.10453 -0.89543,2 -2,2 2.9999,-0.0018 3,2.400391 3,2.400391 V 17 H 8 V 16.400391 C 8,16.400391 7.99989,14.0018 11,14 9.8954,14 9,13.10453 9,12 9,10.89547 9.89543,10 11,10 Z m 6.5,4 v 0.857422 c -1.3806,0 -2.5,1.150212 -2.5,2.570312 C 15,18.847934 16.1194,20 17.5,20 c 1.3666,0 2.475647,-1.129097 2.498047,-2.529297 A 0.41663,0.42857 0 0 0 20,17.427734 0.41663,0.42857 0 0 0 19.583984,17 0.41663,0.42857 0 0 0 19.166016,17.427734 c 0,0.94677 -0.745636,1.714844 -1.666016,1.714844 -0.92038,0 -1.666016,-0.768114 -1.666016,-1.714844 0,-0.94677 0.745656,-1.71289 1.666016,-1.71289 v 0.857422 l 1.666016,-1.28711 z"
+     id="path1" />
+</svg>

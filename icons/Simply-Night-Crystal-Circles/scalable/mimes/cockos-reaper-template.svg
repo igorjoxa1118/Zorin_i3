@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="40"
+   height="48"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="cockos-reaper-template.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs8">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;      .ColorScheme-Highlight {&#10;        color:#1e3f5a;&#10;      }&#10;  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#bde6fb;fill-opacity:1"
+     d="M 2,0 C 0.892,0 0,0.892 0,2 v 44 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 V 2 C 40,0.892 39.108,0 38,0 Z m 4,3 h 30 c 0.554,0 1,0.446 1,1 v 40 c 0,0.554 -0.446,1 -1,1 H 6 Z m 12.724609,10.166016 c -2.5808,0.02044 -5.174918,0.477749 -7.449218,1.349609 L 10,15 l 1.123047,2.123047 c 0.75818,1.486 2.153487,3.214778 4.367187,5.580078 3.4266,3.5783 4.730335,5.731272 5.427735,8.763672 0.48523,2.0924 0.425666,6.369256 -0.08984,8.097656 -0.63675,2.062 -0.122744,1.514701 0.847656,-0.880859 1.0008,-2.4563 1.364303,-6.792531 0.757813,-9.582032 -0.51546,-2.547299 -2.152485,-5.520209 -4.396485,-8.037109 -1.0917,-1.213 -2.183081,-2.606597 -2.425781,-3.091797 -0.42454,-0.81878 -0.424643,-0.910634 0.06055,-1.183594 1.6073,-0.84904 4.366197,-1.365234 7.216797,-1.365234 3.6996,0.03026 6.734134,0.911826 9.615234,2.822266 1.031,0.69747 1.636335,0.998625 1.302735,0.634765 -0.90974,-1.0007 -4.367741,-3.184103 -6.369141,-4.033203 -1.0003,-0.42437 -2.878744,-0.969207 -4.152344,-1.242187 h -0.002 c -1.4664,-0.30676 -3.010694,-0.451713 -4.558594,-0.439453 z"
+     id="rect815" />
+</svg>

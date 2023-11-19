@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="draw-spiral.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="m 11.123708,12.141298 c 0.282526,0.453722 -0.463848,0.612097 -0.742157,0.475124 -0.7590238,-0.363834 -0.6536038,-1.429654 -0.193973,-1.986106 0.826493,-0.988772 2.340324,-0.7790324 3.166817,0.08561 1.214439,1.271279 0.889745,3.338712 -0.358428,4.447336 C 11.330331,16.644278 8.7623,16.190556 7.4044904,14.51692 5.6966864,12.410963 6.2659544,9.2520276 8.3153192,7.6126344 10.803231,5.6265288 14.45498,6.3285144 16.331456,8.8154268 18.541059,11.751781 17.723,16.01934 14.868226,18.180942 11.566472,20.680696 6.8183552,19.726166 4.4274296,16.417417 1.7160272,12.650665 2.7828776,7.2744828 6.44306,4.590672 10.558657,1.5772704 16.403142,2.7843432 19.3043,6.9192096 22.530152,11.503518 21.21451,17.996885 16.740486,21.202904"
+     fill="none"
+     stroke="#1e3f5a"
+     stroke-width="1.27454"
+     id="path1"
+     style="stroke:#bde6fb;stroke-opacity:1" />
+</svg>

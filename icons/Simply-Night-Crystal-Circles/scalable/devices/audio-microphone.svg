@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="audio-microphone.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs8">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;      .ColorScheme-Highlight {&#10;        color:#1e3f5a;&#10;      }&#10;  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:#bde6fb;fill-opacity:1;stroke-width:0.264583"
+     d="M 6.3499999,0 A 6.3499999,6.3499999 0 0 0 0,6.3499999 6.3499999,6.3499999 0 0 0 6.3499999,12.7 6.3499999,6.3499999 0 0 0 12.7,6.3499999 6.3499999,6.3499999 0 0 0 6.3499999,0 Z m 0,0.79374999 A 5.5562499,5.5562499 0 0 1 11.90625,6.3499999 5.5562499,5.5562499 0 0 1 6.3499999,11.90625 5.5562499,5.5562499 0 0 1 0.79374999,6.3499999 5.5562499,5.5562499 0 0 1 6.3499999,0.79374999 Z m 0,1.32291661 c -1.0260539,0 -1.8520833,0.8655368 -1.8520833,1.9404499 V 5.99705 c 0,1.0749132 0.8260294,1.9404499 1.8520833,1.9404499 1.0260539,0 1.8520833,-0.8655367 1.8520833,-1.9404499 V 4.0571165 c 0,-1.0749131 -0.8260294,-1.9404499 -1.8520833,-1.9404499 z m -2.7512533,4.7625 c 0.276761,0.9613923 1.006281,1.7244115 1.9575033,2.0019449 V 10.054167 H 4.2333333 V 10.31875 H 8.4666666 V 10.054167 H 7.1437499 V 8.8811115 C 8.094972,8.6035781 8.8244922,7.8405589 9.1012533,6.8791666 H 8.5715696 c -0.3280127,0.921966 -1.1842744,1.5875 -2.2215697,1.5875 -1.0372952,0 -1.893557,-0.665534 -2.2215697,-1.5875 z"
+     id="path817" />
+</svg>

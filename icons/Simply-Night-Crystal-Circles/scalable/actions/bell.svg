@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="15.999202"
+   height="16"
+   version="1.1"
+   viewBox="0 0 15.999202 16"
+   id="svg1"
+   sodipodi:docname="bell.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 7.9996894,0 C 3.5453895,0 1.9254705,3.2426468 1.9254705,7.060547 1.9254705,10.484247 -2.1232265,13 1.5211735,13 H 14.478204 c 3.644,0 -0.404297,-2.515753 -0.404297,-5.939453 C 14.073907,3.2426468 12.453788,0 7.9996894,0 Z M 4.9996895,14 c 0.44321,1.1583 1.6118999,2 2.9999999,2 1.3881,0 2.5569986,-0.842 2.9999986,-2 z"
+     id="path1" />
+</svg>

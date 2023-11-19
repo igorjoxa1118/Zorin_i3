@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="podcast-amarok.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme" />
+  </defs>
+  <path
+     d="m 5,5 v 2.18 c 6.53,0 11.82,5.29 11.82,11.82 H 19 A 14,14 0 0 0 5,5 Z m 0,4.36 v 2.18 A 7.45,7.45 0 0 1 12.46,19 h 2.18 A 9.64,9.64 0 0 0 5,9.36 Z m 2.09,5.46 a 2.1,2.1 0 1 0 0,4.18 2.1,2.1 0 0 0 0,-4.18 z"
+     fill="currentColor"
+     color="#1e3f5a"
+     id="path1"
+     style="fill:#bde6fb;fill-opacity:1" />
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16.000015"
+   viewBox="0 0 16 16.000015"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="adjustcurves.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;   .ColorScheme-Text { color:#1e3f5a; } .ColorScheme-Highlight { color:#4285f4; }&#10;  </style>
+  </defs>
+  <path
+     style="fill:#bde6fb;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 1,1.502037e-5 V 14.000015 H 0 v 1 h 1 v 1 h 1 v -1 h 14 v -1 H 2 v -3.125 l 3.9980469,-3.9980469 2.1230469,2.1230469 0.00586,-0.00391 0.00391,0.00391 L 16,1.125015 V 1.502037e-5 H 15.710938 C 15.718138,-0.01234698 8.1269531,7.5898587 8.1269531,7.5898588 L 6,5.4648588 5.99805,5.4668088 5.9961,5.4648588 2,9.4609525 V 1.502037e-5 Z"
+     id="path1" />
+</svg>
