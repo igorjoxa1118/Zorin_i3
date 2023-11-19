@@ -7,8 +7,10 @@
 
 $${\color{lightgreen}Необходимые \space условия \space путей, \space для \space корректной \space работы.}$$
 
-1. Нужно закинуть polybar, rofi, scripts, bin и файлик "config" в ~/.config/i3/ (polybar и rofi должны быть установлены)
-2. Файл picom.conf должен находиться в ~/.config/ (picom должен быть установлен)
+1. Нужно закинуть polybar, rofi, scripts, bin и файлик "config" в ~/.config/i3/ 
+(polybar и rofi должны быть установлены)
+2. Файл picom.conf должен находиться в ~/.config/ 
+(picom должен быть установлен)
 3. Папку с иконками (Simply-Night-Crystal-Circles и курсор ArchTrixCrystal) нужно закинуть в ~/.icons
 4. Папку с темами (Blue-Light-ZorinGTK) нужно закидывать в ~/.themes
 
