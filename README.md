@@ -130,7 +130,10 @@ Print
 
 $${\color{lightgreen}Что \space еще \space ?}$$
 
-1. Еще есть темы оформления для blender. Папка соответствующая. Установку можно нагуглить=)
+1. Еще есть темы оформления для blender. Папка соответствующая.
+```python
+~/.config/blender/Ваша версия/config/colorshemas/
+```
 
 2. Тему ohmyposh(Zorin.omp.json) можно скинуть в папку ~/.poshthemes/
    Затем отредактировать ваш .zshrc добавив строку в самый низ
