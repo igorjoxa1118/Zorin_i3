@@ -43,7 +43,7 @@ $${\color{red}!! ВАЖНО !!}$$
 
 $${\color{lightgreen}Управление \space окнами \space в \space случае \space замены \space config.}$$
 
-В моем случае используются xfce4-terminal. Скриншотка Kazam
+В моем случае используется xfce4-terminal. Скриншотка Kazam
 
 1. Закрыть окно
 
