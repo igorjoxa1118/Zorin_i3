@@ -260,7 +260,7 @@ bindsym $mod1+e exec --no-startup-id "leafpad"
 bindsym $mod1+w exec --no-startup-id "firefox"
 bindsym $mod+w exec --no-startup-id "$HOME/.bin/i3_switch_workspace.sh"
 bindsym Print exec --no-startup-id "$HOME/.bin/flameshot.sh -c"
-bindsym $mod1+Print exec --no-startup-id "flameshot gui"
+bindsym $mod+Print exec --no-startup-id "flameshot gui"
 bindsym $mod1+m exec --no-startup-id "xfce4-terminal -e ncmpcpp"
 
 #bindsym $mod+Ctrl+Up exec mpc volume +2
