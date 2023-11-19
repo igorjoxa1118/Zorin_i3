@@ -130,7 +130,7 @@ Print
 
 $${\color{lightgreen}Что \space еще \space ?}$$
 
-1. Еще есть темы оформления для blender. Папка соответствующая.
+1. Еще есть тема оформления для blender. Папка соответствующая.
 ```python
 ~/.config/blender/Ваша версия/config/colorshemas/
 ```
