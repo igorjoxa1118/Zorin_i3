@@ -1,6 +1,8 @@
-![](./screenshots/gitScreen3.png)
-![](./screenshots/gitScreen2.png)
-![](./screenshots/gitScreen1.png)
+![](./screenshots/Screen.png)
+![](./screenshots/term.png.png)
+![](./screenshots/thunar.png)
+![](./screenshots/appmenu.png)
+![](./screenshots/powermenu.png)
 
 $${\color{lightgreen}Необходимые \space условия \space путей, \space для \space корректной \space работы.}$$
 
