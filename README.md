@@ -132,5 +132,7 @@ $${\color{lightgreen}Что \space еще \space ?}$$
 2. Тему ohmyposh(Zorin.omp.json) можно скинуть в папку ~/.poshthemes/
    Затем отредактировать ваш .zshrc добавив строку в самый низ
 
-   > eval "$(oh-my-posh init zsh --config ~/.poshthemes/Zorin.omp.json)"
+   ```python
+eval "$(oh-my-posh init zsh --config ~/.poshthemes/Zorin.omp.json)"
+```
 
