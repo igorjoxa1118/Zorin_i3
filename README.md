@@ -14,7 +14,7 @@ $${\color{red}!! ВАЖНО !!}$$
 6. Сделать записти в свой текущий i3/config. В случае земены config файла своего на мой, эти записи делать не нужно.
 
 
-> exec_always --no-startup-id "$HOME/.config/i3/polybar/Garuda/launch.sh"
+> exec_always --no-startup-id "$HOME/.config/i3/polybar/Zorin/launch.sh"
 
 > exec --no-startup-id "picom -b --config ~/.config/picom.conf"
 
