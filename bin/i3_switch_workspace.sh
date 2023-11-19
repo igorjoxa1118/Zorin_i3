@@ -10,7 +10,7 @@ WORKSPACE=$( (echo Hiden; gen_workspaces)  | rofi -dmenu -p "Select workspace")
 
 if [ x"Hiden" = x"${WORKSPACE}" ]
 then
-    $HOME/.bin/i3_empty_workspace.sh
+    $HOME/.config/i3/bin/i3_empty_workspace.sh
 elif [ -n "${WORKSPACE}" ]
 then
     i3-msg workspace "${WORKSPACE}"
