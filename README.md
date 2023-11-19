@@ -73,12 +73,15 @@ mod+h
 ```
 
 6. Разделение окон по горизонтали
-> mod+v
+
+```python
+mod+v
+```
 
 7. Перезапустить i3
 
 ```python
- mod+sift+r
+mod+sift+r
 ```
 
 8. Открыть терминал (xfce4-terminal)
