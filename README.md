@@ -4,7 +4,7 @@
 
 $${\color{lightgreen}Необходимые \space условия \space путей, \space для \space корректной \space работы.}$$
 
-1. Нужно закинуть polybar rofi scripts и файл "config" в ~/.config/i3/
+1. Нужно закинуть polybar rofi scripts и файл "config" в ~/.config/i3/ (polybar и rofi должны быть установлены)
 2. Файл picom.conf должен находиться в ~/.config/ (picom должен быть установлен)
 3. Папку с иконками нужно закинуть в ~/.icons
 4. Папку с темами нужно закидывать в ~/.themes
