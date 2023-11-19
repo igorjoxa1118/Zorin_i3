@@ -1,5 +1,5 @@
 ![](./screenshots/Screen.png)
-![](./screenshots/term.png.png)
+![](./screenshots/term.png)
 ![](./screenshots/thunar.png)
 ![](./screenshots/appmenu.png)
 ![](./screenshots/powermenu.png)
