@@ -1,7 +1,5 @@
-![](./screenshots/Screen.png)
-![](./screenshots/term.png)
-![](./screenshots/thunar.png)
-![](./screenshots/appmenu.png)
+![](./screenshots/Screen.png) ![](./screenshots/term.png)
+![](./screenshots/thunar.png) ![](./screenshots/appmenu.png)
 ![](./screenshots/powermenu.png)
 
 $${\color{lightgreen}Необходимые \space условия \space путей, \space для \space корректной \space работы.}$$
