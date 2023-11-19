@@ -1,3 +1,7 @@
+![](./screenshots/gitScreen3.png)
+![](./screenshots/gitScreen2.png)
+![](./screenshots/gitScreen1.png)
+
 $${\color{lightgreen}Необходимые \space условия \space путей, \space для \space корректной \space работы.}$$
 
 1. Нужно закинуть polybar rofi scripts и файл "config" в ~/.config/i3/
@@ -22,6 +26,41 @@ $${\color{red}!! ВАЖНО !!}$$
 
 8. Перезапустить i3
 
-![](./screenshots/gitScreen3.png)
-![](./screenshots/gitScreen2.png)
-![](./screenshots/gitScreen1.png)# Zorin_i3
+
+$${\color{lightgreen}Управление \space окнами \space в \space случае \space замены \space config.}$$
+
+1. Закрыть окно
+> mod+q
+
+2. Переключиться на рабочее простронство
+> mod+[1-9]
+
+3. Передвинуть окно на рабочее пространство
+> mod+shift+[1-9]
+
+4. Разделение окон по вертикали
+> mod+h
+
+5. Разделение окон по горизонтали
+> mod+v
+
+6. Перезагрузить i3
+> mod+sift+r
+
+7. Открыть терминал (xfce4-terminal)
+> mod+Enter
+
+8. Сделать окно плавающим и обратно
+> moc+c
+
+9. Управление закладками окон
+> mod+t
+> mod+y
+> mod+u
+
+10. Полноэкранный режим окна и обратно
+> mod+f
+
+.
+.
+.
