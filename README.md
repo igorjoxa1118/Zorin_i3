@@ -41,6 +41,10 @@ exec_always --no-startup-id "$HOME/.config/i3/polybar/Zorin/launch.sh"
 exec --no-startup-id "picom -b --config ~/.config/picom.conf"
 ```
 
+```python
+exec_always --no-startup-id autotiling
+```
+
 9. Установить обоину куда вам нужно
 
 10. Перезапустить i3
