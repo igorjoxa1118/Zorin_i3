@@ -22,7 +22,15 @@ $${\color{red}!! ВАЖНО !!}$$
 
 6. Найти и установить [ohmyposh](https://ohmyposh.dev/docs/installation/linux). Не обязательно, если вы не хотите. Но внешний вид терминала, у вас, может быть другим.
 
-7. Сделать записи в свой текущий i3/config. В случае земены config файла своего на мой, эти записи делать не нужно.
+7. Установить [autotiling](https://github.com/nwg-piotr/autotiling)
+
+> Для Arch-based дистрибутивов есть пакет autotiling в AUR
+
+```python
+yay -S autotiling
+```
+
+8. Сделать записи в свой текущий i3/config. В случае земены config файла своего на мой, эти записи делать не нужно.
 
 
 ```python
@@ -33,9 +41,9 @@ exec_always --no-startup-id "$HOME/.config/i3/polybar/Zorin/launch.sh"
 exec --no-startup-id "picom -b --config ~/.config/picom.conf"
 ```
 
-8. Установить обоину куда вам нужно
+9. Установить обоину куда вам нужно
 
-9. Перезапустить i3
+10. Перезапустить i3
 
 $${\color{red}!! ВАЖНО !!}$$
 В любом случае, все модули polybar, которые присутствуют у меня, дожны быть настроены в соответствии с вашими желаниями и вашей машиной.
