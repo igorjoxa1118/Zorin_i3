@@ -30,8 +30,9 @@ $${\color{red}!! ВАЖНО !!}$$
 yay -S autotiling
 ```
 
-8. Сделать записи в свой текущий i3/config. В случае земены config файла своего на мой, эти записи делать не нужно.
+8. Сделать записи в свой текущий i3/config. 
 
+>В случае земены config файла своего на мой, эти записи делать не нужно.
 
 ```python
 exec_always --no-startup-id "$HOME/.config/i3/polybar/Zorin/launch.sh"
