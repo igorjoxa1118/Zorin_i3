@@ -1,7 +1,7 @@
 * {
-  bg-color: #161720;
-  selected: #5A74CA;
-  text: #e8eaef;
+  bg-color: #171D20;
+  selected: #BDE6FB;
+  text: #BDE6FB;
 
   background-color: transparent;
   text-color: @text;

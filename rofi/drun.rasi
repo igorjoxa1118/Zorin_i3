@@ -21,14 +21,14 @@ configuration {
 }
 
 * {
-    background:                     #161720;
-    background-alt:                 #161720;
-    background-ib:                  #232433;
-    foreground:                     #5A74CA;
-    border:               			#5A74CA;
-    border-sel:               		#5A74CA;
-    selected:               		#5A74CA;
-    urgent:                         #5A74CA;
+    background:                     #171D20;
+    background-alt:                 #171D20;
+    background-ib:                  #BDE6FB;
+    foreground:                     #BDE6FB;
+    border:               			#BDE6FB;
+    border-sel:               		#BDE6FB;
+    selected:               		#BDE6FB;
+    urgent:                         #BDE6FB;
 }
 
 window {

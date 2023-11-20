@@ -6,7 +6,7 @@ function gen_workspaces()
 }
 
 
-WORKSPACE=$( (echo Hiden; gen_workspaces)  | rofi -dmenu -p "Select workspace")
+WORKSPACE=$( (echo Hiden; gen_workspaces)  | rofi -dmenu -p "Select workspace" -config $HOME/.config/i3/rofi/themes/window.rasi)
 
 if [ x"Hiden" = x"${WORKSPACE}" ]
 then
