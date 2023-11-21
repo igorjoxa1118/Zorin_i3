@@ -1,4 +1,6 @@
-gtk_color_scheme = "fg_color:#123354\nbg_color:#f5f7fa\nbase_color:#fff\ntext_color:#123354\nselected_bg_color:#15a6f0\nselected_fg_color:#fff\ntooltip_bg_color:#000\ntooltip_fg_color:#fff\npanel_bg_color:#f5f7fa\npanel_fg_color:#123354"
+@import url("../colors/colors.css");
+
+gtk_color_scheme = "fg_color:@sel-color\nbg_color:@fg-color\nbase_color:@bg-color\ntext_color:@sel-color\nselected_bg_color:@sel-color\nselected_fg_color:@bg-color\ntooltip_bg_color:#000\ntooltip_fg_color:#fff\npanel_bg_color:@fg-color\npanel_fg_color:@sel-color"
 
 # Comment the following line for large buttons
 gtk-icon-sizes = "gtk-button=16,16"

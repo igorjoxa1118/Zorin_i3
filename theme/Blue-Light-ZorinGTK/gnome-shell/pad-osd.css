@@ -1,3 +1,5 @@
+@import url("../colors/colors.css");
+
 .Leader {
     stroke-width: .5 !important;
     stroke: #535353;
